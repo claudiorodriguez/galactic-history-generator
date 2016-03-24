@@ -1,0 +1,29 @@
+{
+  "name": "galactic-history-generator",
+  "version": "0.0.1",
+  "description": "Procedural galactic history generator module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiorodriguez/galactic-history-generator.git"
+  },
+  "keywords": [
+    "space",
+    "procedural"
+  ],
+  "author": "Claudio Rodriguez <cjrodr@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claudiorodriguez/galactic-history-generator/issues"
+  },
+  "homepage": "https://github.com/claudiorodriguez/galactic-history-generator#readme",
+  "dependencies": {
+    "change-case": "^2.3.1",
+    "euclidean-distance": "^1.0.0",
+    "natural": "^0.4.0",
+    "seedrandom": "^2.4.2"
+  }
+}
